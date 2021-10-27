@@ -1,0 +1,9 @@
+c:\users\jorge\documents\visual studio 2013\Projects\Desafio-C#\d2-CalculadoraBasica\d2-CalculadoraBasica\bin\Debug\d2-CalculadoraBasica.exe.config
+c:\users\jorge\documents\visual studio 2013\Projects\Desafio-C#\d2-CalculadoraBasica\d2-CalculadoraBasica\obj\Debug\d2-CalculadoraBasica.csprojResolveAssemblyReference.cache
+c:\users\jorge\documents\visual studio 2013\Projects\Desafio-C#\d2-CalculadoraBasica\d2-CalculadoraBasica\obj\Debug\d2_CalculadoraBasica.Form1.resources
+c:\users\jorge\documents\visual studio 2013\Projects\Desafio-C#\d2-CalculadoraBasica\d2-CalculadoraBasica\obj\Debug\d2_CalculadoraBasica.Properties.Resources.resources
+c:\users\jorge\documents\visual studio 2013\Projects\Desafio-C#\d2-CalculadoraBasica\d2-CalculadoraBasica\obj\Debug\d2-CalculadoraBasica.csproj.GenerateResource.Cache
+c:\users\jorge\documents\visual studio 2013\Projects\Desafio-C#\d2-CalculadoraBasica\d2-CalculadoraBasica\bin\Debug\d2-CalculadoraBasica.exe
+c:\users\jorge\documents\visual studio 2013\Projects\Desafio-C#\d2-CalculadoraBasica\d2-CalculadoraBasica\bin\Debug\d2-CalculadoraBasica.pdb
+c:\users\jorge\documents\visual studio 2013\Projects\Desafio-C#\d2-CalculadoraBasica\d2-CalculadoraBasica\obj\Debug\d2-CalculadoraBasica.exe
+c:\users\jorge\documents\visual studio 2013\Projects\Desafio-C#\d2-CalculadoraBasica\d2-CalculadoraBasica\obj\Debug\d2-CalculadoraBasica.pdb
